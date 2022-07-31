@@ -244,9 +244,10 @@
 }
 .titulo_bold{
   top:7.5rem;
-  width:17rem;
+  width:22rem;
   left:2rem;
   font-size: 30px;
+  letter-spacing: 0em;
 }
 .logo_medicario {
   top:5rem;
