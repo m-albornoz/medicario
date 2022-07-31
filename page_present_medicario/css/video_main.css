@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Inter-ExtraBold;
+  src: url('../fonts/Inter/Inter-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: Inter-SemiBold;
+  src: url('../fonts/Inter/Inter-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: Inter-Bold;
+  src: url('../fonts/Inter/Inter-Bold.ttf');
+}
+
+/*--------------------------------------------*/
+
+.button4 {
+  position:absolute;
+  border: none;
+  color: #ffffff;
+  padding: 20px;
+  font-family: 'Inter-Bold';
+  font-size: 20px;
+  margin: 4px 2px;
+  border-radius: 31.5px;
+  left: 3.66%;
+  top: 5%;
+  text-decoration: none;
+}
+
+.adelante{
+  position: relative;
+  width: 26px;
+  height:auto;
+  padding-right: 15px;
+  top:5px;
+}
+
+.video_main{
+  position: absolute;
+  top:20%;
+  left:10%;
+  background-color:rgba(0, 0, 0, 0.7);
+}

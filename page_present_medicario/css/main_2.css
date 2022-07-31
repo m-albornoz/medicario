@@ -1,0 +1,179 @@
+@font-face {
+  font-family: Inter-ExtraBold;
+  src: url('../fonts/Inter/Inter-ExtraBold.ttf');
+}
+
+@font-face {
+  font-family: Inter-SemiBold;
+  src: url('../fonts/Inter/Inter-SemiBold.ttf');
+}
+
+@font-face {
+  font-family: Inter-Bold;
+  src: url('../fonts/Inter/Inter-Bold.ttf');
+}
+
+/*--------------------------------------------*/
+
+.logo_medicario {
+  position: absolute;
+  height: auto;
+  width: 22.2%;
+  left: 54.3%;
+  top: 11.85%;
+}
+
+.folletapp{
+  position: relative;
+  width: 82.1%;
+  height: auto;
+  left: -16%;
+  top: -4.55%;
+}
+
+.titulo_bold{
+  position: absolute;
+  left: 53.66%;
+  right: 15.96%;
+  top: 17.62%;
+  bottom: 66.67%;
+
+  font-family: 'Inter-ExtraBold';
+  font-size: 28px;
+  letter-spacing: 0.013em;
+  line-height: 35px;
+  font-weight: 700;
+  display: flex;
+
+  color: #FFFFFF;
+}
+
+.rectangle{
+  position: absolute;
+  height: 0.52%;
+  width: 26.5%;
+  background-color: #CCF5FF;
+  left: 53.66%;
+  top: 32.9%;
+
+}
+
+.instrucciones{
+  position: absolute;
+  left: 56.66%;
+  right: 15.96%;
+  top: 34%;
+  bottom: 66.67%;
+
+  font-family: 'Inter-SemiBold';
+  font-size: 21px;
+  line-height: 38px;
+  display: flex;
+
+  color: #FFFFFF;
+}
+
+.instrucciones2{
+  position: absolute;
+  left: 56.66%;
+  top: 50.32%;
+  bottom: 66.67%;
+
+  font-family: 'Inter-SemiBold';
+  font-size: 21px;
+  line-height: 29px;
+  display: flex;
+
+  color: #FFFFFF;
+}
+
+.instrucciones3{
+  position: absolute;
+  left: 56.66%;
+  top: 54%;
+  bottom: 66.67%;
+
+  font-family: 'Inter-SemiBold';
+  font-size: 21px;
+  line-height: 29px;
+  display: flex;
+
+  color: #FFFFFF;
+}
+
+.textlink{
+  color:#FFFFFF;
+  text-decoration:underline;
+  text-decoration-color: #ffffff;
+}
+
+.bravo_logo{
+  position: absolute;
+  width: 9%;
+  height: auto;
+  left: 74.5%;
+  top: 36.2%;
+}
+
+.appstore{
+  position: absolute;
+  width:146px;
+  height: auto;
+  left: 56.66%;
+  top: 42.72%
+}
+
+.googleplay{
+  position: absolute;
+  width:146px;
+  height: auto;
+  left: 67.66%;
+  top: 42.72%
+}
+
+.qrmedicario{
+  position: absolute;
+  width:146px;
+  height: auto;
+  left: 56.66%;
+  top: 63%
+}
+
+.button4 {
+  position:absolute;
+  background-color: #FFFFFF;
+  border: none;
+  color: #1D4092;
+  padding: 17px;
+  font-family: 'Inter-Bold';
+  font-size: 20px;
+  border-radius: 31.5px;
+  left: 72.66%;
+  top: 74%;
+  text-decoration:underline;
+  text-decoration-color: #ffffff;
+}
+
+.adelante{
+  position: relative;
+  width: 26px;
+  height:auto;
+  padding-left: 15px;
+  top:5px;
+}
+
+.numero_uno{
+  position: absolute;
+  left:53.66%;
+  top:37.72%;
+  width: 2%;
+  height: auto;
+}
+
+.numero_dos{
+  position: absolute;
+  left:53.66%;
+  top:53.72%;
+  width: 2%;
+  height: auto;
+}
