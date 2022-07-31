@@ -34,7 +34,6 @@
 .titulo_bold{
   position: absolute;
   left: 53.66%;
-  right: 15.96%;
   top: 17.62%;
   bottom: 66.67%;
 
@@ -51,10 +50,10 @@
 .rectangle{
   position: absolute;
   height: 0.52%;
-  width: 26.5%;
+  width: 27%;
   background-color: #CCF5FF;
   left: 53.66%;
-  top: 32.9%;
+  top: 15.3rem;
 
 }
 
@@ -176,4 +175,87 @@
   top:53.72%;
   width: 2%;
   height: auto;
+}
+
+/*--------------------------------------------*/
+@media only screen and (max-width: 600px) {
+  .folletapp {
+    display: none;
+  }
+  .hand{
+    position: absolute;
+    top:60rem;
+    width:32.95rem;
+    left:-10rem;
+  }
+  .button4 {
+    position:absolute;
+    top: 50rem;
+    width: 14rem;
+    left:1.5rem;
+  }
+  .qrmedicario{
+    top:39rem;
+    left:4rem;
+}
+  .instrucciones3{
+   top:33rem;
+   width:17rem;
+   left:4rem;
+}
+.instrucciones2{
+ top:31rem;
+ width:15rem;
+ left:4rem;
+}
+.numero_dos{
+  top:32.3rem;
+  width:2rem;
+  left:1.5rem;
+}
+.googleplay{
+  top:26.9rem;
+  left:3.7rem;
+}
+.appstore{
+  top:23.75rem;
+  left:3.7rem;
+}
+.bravo_logo{
+  top:20.5rem;
+  width:7rem;
+  left:4rem;
+}
+.instrucciones{
+  top:17rem;
+  width:17rem;
+  left:4rem;
+}
+.numero_uno{
+  top:18.6rem;
+  width:2rem;
+  left:1.5rem;
+}
+.rectangle{
+  top:17rem;
+  width:17rem;
+  height:0.3rem;
+  left:2rem;
+}
+.titulo_bold{
+  top:7.5rem;
+  width:17rem;
+  left:2rem;
+  font-size: 30px;
+}
+.logo_medicario {
+  top:5rem;
+  width:17rem;
+  left:2rem;
+}
+}
+@media only screen and (min-width: 601px) {
+  .hand {
+    display: none;
+  }
 }
